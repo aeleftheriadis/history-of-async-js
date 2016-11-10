@@ -18,8 +18,8 @@
   "contributors": [],
   "private": true,
   "dependencies": {
-    "babel": "^5.8.23",
-    "hapi": "11.0.4",
+    "babel": "^6.0.0",
+    "hapi": "11.1.4",
     "inert": "^3.1.0"
   }
 }
